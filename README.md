@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1 align="center">
+
+![Akhbar's github stats](https://github-readme-stats.vercel.app/api?username=akhbar&show_icons=true)
+
+</h1>
 
 <!--
 **akhbar/akhbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
