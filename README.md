@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 <h1 align="center">
 
@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
   
+### Hi there 👋, Welcome. 
+# about me:
   
 #### 🌱 Currently Mastering
 [![Languages](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
