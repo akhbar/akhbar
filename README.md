@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Back-end technologies</h3>
 <div align="center">
+  
+  
 #### 🌱 Currently Mastering
-[![Current Stack](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
 
 #### 🛠️ Programming Arsenal
-[![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 
 #### 🎨 Frontend Crafts
 [![Frontend](https://skillicons.dev/icons?i=js,react,next,threejs,vercel,vite,tailwind,bootstrap)](https://skillicons.dev)
