@@ -18,3 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Back-end technologies</h3>
+<div align="center">
+#### 🌱 Currently Mastering
+[![Current Stack](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
+
+#### 🛠️ Programming Arsenal
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
+
+#### 🎨 Frontend Crafts
+[![Frontend](https://skillicons.dev/icons?i=js,react,next,threejs,vercel,vite,tailwind,bootstrap)](https://skillicons.dev)
+
+#### ⚙️ Backend Solutions
+[![Backend](https://skillicons.dev/icons?i=postgres,supabase,mysql,nodejs,express,mongodb,firebase)](https://skillicons.dev)
+
+#### 🔧 Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+</div>
