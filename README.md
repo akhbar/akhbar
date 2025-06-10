@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
   
 ### Hi there 👋, Welcome. 
+profile count:  
+[![Count](https://profile-counter.glitch.me/akhbar-github/count.svg)](https://glitch.me)
 # about me:
   
 #### 🌱 Currently Mastering
