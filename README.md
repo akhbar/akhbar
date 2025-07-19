@@ -28,7 +28,7 @@ profile count:
 # about me:
   
 #### 🌱 Currently Mastering
-[![Languages](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,threejs,next)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=nodejs,react,mongodb,tailwind,next)](https://skillicons.dev)
 
 #### 🛠️ Programming Arsenal
 [![Languages](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
