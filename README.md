@@ -2,7 +2,7 @@
 <!--
 <h1 align="center">
 
-![Akhbar's github stats](https://github-readme-stats.vercel.app/api?username=akhbar&show_icons=true)
+![](https://komarev.com/ghpvc/?username=akhbar&color=brightgreen)
 
 </h1>
 **akhbar/akhbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
